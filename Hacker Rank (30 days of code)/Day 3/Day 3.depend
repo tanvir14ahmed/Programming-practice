@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1514301964 source:d:\joy\cse documents (dcc)\programming practice\hacker rank (30 days of code)\day 3\main.cpp
+	<map>
+	<set>
+	<list>
+	<cmath>
+	<ctime>
+	<deque>
+	<queue>
+	<stack>
+	<string>
+	<bitset>
+	<cstdio>
+	<limits>
+	<vector>
+	<climits>
+	<cstring>
+	<cstdlib>
+	<fstream>
+	<numeric>
+	<sstream>
+	<iostream>
+	<algorithm>
+
